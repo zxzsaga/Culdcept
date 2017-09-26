@@ -7,8 +7,8 @@
             Water,
             Fire,
             Earth,
-            Wind,
-            None
+            Air,
+            Neutral
         }
     }
 }

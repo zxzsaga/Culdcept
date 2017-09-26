@@ -2,8 +2,8 @@
     public class CreatureCard : Card {
 
         public enum Race {
-            Human,
-            Beast,
+            Humanoid,
+            Animal,
             Dragon,
             Plant,
             Undead
